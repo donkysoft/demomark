@@ -13,8 +13,3 @@ Javascript to mark a specific environment.
 - デフォルトでは、URL中の development. test. stage. staging. に反応します。
 - environments に配列追加したり、表示位置変更したり出来ます。
 
-## サンプル
-サンプルの各HTMLの内容は全て同一です。
-- [本番環境](sample/index.html）
-- [テスト環境](sample/test.html)
-- [ステージ環境](sample/stage.html)
